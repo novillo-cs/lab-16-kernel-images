@@ -70,5 +70,5 @@ Use the left and right arrow keys to navigate between different kernels and disp
       {0, 1, 2}
     })
   };
-}```
+}
 ```
