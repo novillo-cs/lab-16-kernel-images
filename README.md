@@ -1,4 +1,4 @@
-# LAB 16: Kernel Images
+# LAB 09: Kernel Images
 
 **Name:**
 
